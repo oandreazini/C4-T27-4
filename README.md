@@ -35,3 +35,19 @@ GET       /api/reservas/{id}
 PUT       /api/reservas/{id}
 DELETE    /api/reservas/{id}
 ```
+
+#### 5. Screenshot de los resultados, con los get sin id.
+
+https://c4-t27-4-jwt.herokuapp.com/login
+
+https://c4-t27-4-jwt.herokuapp.com/api/facultades
+![image](https://user-images.githubusercontent.com/55554433/185462737-4efa9ae4-f48f-4a3a-b80b-ee12821f3273.png)
+
+https://c4-t27-4-jwt.herokuapp.com/api/investigadores
+![image](https://user-images.githubusercontent.com/55554433/185462840-3e8a491e-93a4-4eb7-b6fa-9ba6e5a0f99d.png)
+
+https://c4-t27-4-jwt.herokuapp.com/api/equipos
+![image](https://user-images.githubusercontent.com/55554433/185462965-2b31e2d8-a011-42ae-bdf0-84a89f3d092b.png)
+
+https://c4-t27-4-jwt.herokuapp.com/api/reservas
+![image](https://user-images.githubusercontent.com/55554433/185463081-2001a627-2741-439f-afc2-e9b4364d5892.png)
